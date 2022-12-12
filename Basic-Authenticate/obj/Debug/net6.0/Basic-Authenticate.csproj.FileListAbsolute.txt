@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\MCC-73\Basic-Authenticate\bin\Debug\net6.0\Basic-Authenticate.exe
+C:\Users\Administrator\source\repos\MCC-73\Basic-Authenticate\bin\Debug\net6.0\Basic-Authenticate.deps.json
+C:\Users\Administrator\source\repos\MCC-73\Basic-Authenticate\bin\Debug\net6.0\Basic-Authenticate.runtimeconfig.json
+C:\Users\Administrator\source\repos\MCC-73\Basic-Authenticate\bin\Debug\net6.0\Basic-Authenticate.dll
+C:\Users\Administrator\source\repos\MCC-73\Basic-Authenticate\bin\Debug\net6.0\Basic-Authenticate.pdb
+C:\Users\Administrator\source\repos\MCC-73\Basic-Authenticate\obj\Debug\net6.0\Basic-Authenticate.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\MCC-73\Basic-Authenticate\obj\Debug\net6.0\Basic-Authenticate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\MCC-73\Basic-Authenticate\obj\Debug\net6.0\Basic-Authenticate.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\MCC-73\Basic-Authenticate\obj\Debug\net6.0\Basic-Authenticate.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\MCC-73\Basic-Authenticate\obj\Debug\net6.0\Basic-Authenticate.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MCC-73\Basic-Authenticate\obj\Debug\net6.0\Basic-Authenticate.dll
+C:\Users\Administrator\source\repos\MCC-73\Basic-Authenticate\obj\Debug\net6.0\refint\Basic-Authenticate.dll
+C:\Users\Administrator\source\repos\MCC-73\Basic-Authenticate\obj\Debug\net6.0\Basic-Authenticate.pdb
+C:\Users\Administrator\source\repos\MCC-73\Basic-Authenticate\obj\Debug\net6.0\Basic-Authenticate.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\MCC-73\Basic-Authenticate\obj\Debug\net6.0\ref\Basic-Authenticate.dll
